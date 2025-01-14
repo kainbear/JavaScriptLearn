@@ -1,0 +1,36 @@
+Выражения
+
+'abc'  // 'abc'
+
+10 // 10
+
+a + b // Сумма a и b
+
+c = 10
+
+'Good' + 'Evening'  // Good Evening
+
+a <= b || c !== d // true of false
+
+myFunction(c, d)
+
+Выражения присваивания
+
+a = 20
+
+Выражения с побочными действиями
+
+a = 5
+
+b++
+
+myFunction(c, d)
+
+
+Переменные дают возможность к повторному доступу к значениям
+
+let myName = {
+    Stanislav = 'Stanislav'
+},
+
+console.log(myName.Stanislav)
