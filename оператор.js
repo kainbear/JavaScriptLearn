@@ -24,3 +24,20 @@ const Buttons = {
 }
 
 console.table(Buttons)
+
+// Конкатенация Строк
+const hello = 'hello'
+const world = 'world'
+
+const greeting = hello + ' ' + world
+
+console.log(greeting)
+
+// Шаблонная строка
+
+const hello1 = 'hello'
+const world1 = 'world'
+
+const greeting1 = `${hello1} ${world1}`
+
+console.log(greeting1)
