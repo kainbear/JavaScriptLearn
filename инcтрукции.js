@@ -11,5 +11,5 @@ let c = 10;
 myFn(2 + 3) // 5
 myFn(b) // true
 myFn(c = c + 1) // 11
-myFn(c = c + 1;) // UncaughtSyntaxError
-myFn(let d) // UncaughtSyntaxError
+//myFn(c = c + 1;) // UncaughtSyntaxError
+//myFn(let d) // UncaughtSyntaxError
